@@ -83,7 +83,7 @@
                 android:layout_height="wrap_content"
                 app:srcCompat="@drawable/button1"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="41dp"
+                tools:layout_editor_absoluteX="80dp"
                 tools:layout_editor_absoluteY="338dp" />
 
             <TextView
@@ -95,8 +95,8 @@
                 android:textColor="#D13939"
                 android:textSize="16dp"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="57dp"
-                tools:layout_editor_absoluteY="342dp" />
+                tools:layout_editor_absoluteX="96dp"
+                tools:layout_editor_absoluteY="343dp" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -104,7 +104,7 @@
                 android:layout_height="wrap_content"
                 app:srcCompat="@drawable/button1"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="245dp"
+                tools:layout_editor_absoluteX="200dp"
                 tools:layout_editor_absoluteY="338dp" />
 
             <TextView
@@ -116,29 +116,29 @@
                 android:textColor="#D13939"
                 android:textSize="16dp"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="257dp"
-                tools:layout_editor_absoluteY="342dp" />
+                tools:layout_editor_absoluteX="212dp"
+                tools:layout_editor_absoluteY="343dp" />
 
             <ImageView
-                android:id="@+id/imageView7"
+                android:id="@+id/imageView8"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                app:srcCompat="@drawable/button1"
+                app:srcCompat="@drawable/rectangle6"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="143dp"
-                tools:layout_editor_absoluteY="338dp" />
+                tools:layout_editor_absoluteX="75dp"
+                tools:layout_editor_absoluteY="431dp" />
 
             <TextView
-                android:id="@+id/textView11"
+                android:id="@+id/textView13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/poppinssemibold"
-                android:text="Belum"
+                android:text="Print Laporan"
                 android:textColor="#D13939"
-                android:textSize="16dp"
+                android:textSize="17dp"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="159dp"
-                tools:layout_editor_absoluteY="342dp" />
+                tools:layout_editor_absoluteX="126dp"
+                tools:layout_editor_absoluteY="439dp" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </LinearLayout>

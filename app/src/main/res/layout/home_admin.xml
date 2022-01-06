@@ -58,11 +58,11 @@
                 android:id="@+id/imageView4"
                 android:layout_width="160dp"
                 android:layout_height="160dp"
-                android:layout_marginEnd="192dp"
-                android:layout_marginBottom="352dp"
+                android:layout_marginEnd="104dp"
+                android:layout_marginBottom="408dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:srcCompat="@drawable/kotak5" />
+                app:srcCompat="@drawable/rectagle9" />
 
             <TextView
                 android:id="@+id/textView19"
@@ -73,19 +73,27 @@
                 android:textColor="#FFFFFF"
                 android:textSize="20dp"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="41dp"
-                tools:layout_editor_absoluteY="293dp" />
+                tools:layout_editor_absoluteX="127dp"
+                tools:layout_editor_absoluteY="245dp" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/icon_siswa"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="130dp"
+                tools:layout_editor_absoluteY="135dp" />
 
             <ImageView
                 android:id="@+id/imageView5"
                 android:layout_width="160dp"
                 android:layout_height="160dp"
-                android:layout_marginEnd="16dp"
-                android:layout_marginBottom="352dp"
+                android:layout_marginEnd="104dp"
+                android:layout_marginBottom="216dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:srcCompat="@drawable/kotak5" />
-
+                app:srcCompat="@drawable/rectagle9" />
 
             <TextView
                 android:id="@+id/textView20"
@@ -96,40 +104,36 @@
                 android:textColor="#FFFFFF"
                 android:textSize="20dp"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="205dp"
-                tools:layout_editor_absoluteY="293dp" />
+                tools:layout_editor_absoluteX="115dp"
+                tools:layout_editor_absoluteY="435dp" />
 
             <ImageView
-                android:id="@+id/imageView6"
-                android:layout_width="160dp"
-                android:layout_height="160dp"
-                android:layout_marginEnd="192dp"
-                android:layout_marginBottom="172dp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:srcCompat="@drawable/kotak5" />
-
-            <TextView
-                android:id="@+id/textView21"
+                android:id="@+id/imageView9"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinssemibold"
-                android:text="Data Kelas"
-                android:textColor="#FFFFFF"
-                android:textSize="20dp"
+                app:srcCompat="@drawable/icon_petugas"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="43dp"
-                tools:layout_editor_absoluteY="473dp" />
+                tools:layout_editor_absoluteX="130dp"
+                tools:layout_editor_absoluteY="324dp" />
 
             <ImageView
                 android:id="@+id/imageView7"
                 android:layout_width="160dp"
                 android:layout_height="160dp"
-                android:layout_marginEnd="16dp"
-                android:layout_marginBottom="172dp"
+                android:layout_marginEnd="104dp"
+                android:layout_marginBottom="32dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:srcCompat="@drawable/kotak5" />
+                app:srcCompat="@drawable/rectagle9" />
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/icon_spp"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="130dp"
+                tools:layout_editor_absoluteY="511dp" />
 
             <TextView
                 android:id="@+id/textView22"
@@ -140,8 +144,8 @@
                 android:textColor="#FFFFFF"
                 android:textSize="20dp"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="228dp"
-                tools:layout_editor_absoluteY="473dp" />
+                tools:layout_editor_absoluteX="138dp"
+                tools:layout_editor_absoluteY="621dp" />
 
 
         </androidx.constraintlayout.widget.ConstraintLayout>

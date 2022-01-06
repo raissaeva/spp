@@ -4,16 +4,23 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/data_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/data_admin.xml" value="0.22" />
         <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/data_kelas.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/data_petugas.xml" value="0.1" />
-        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/home_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/data_siswa.xml" value="0.18" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/data_spp.xml" value="0.12" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/home_admin.xml" value="0.22" />
         <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/home_petugas.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/home_siswa.xml" value="0.1" />
-        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/input_kekurangan.xml" value="0.1" />
-        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/konfirmasi_pembayaran_admin.xml" value="0.1" />
-        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/konfirmasi_pembayaran_petugas.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/input_data_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/input_data_petugas.xml" value="0.13677536231884058" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/input_kekurangan.xml" value="0.18" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/konfirmasi_pembayaran_admin.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/konfirmasi_pembayaran_petugas.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/login_admin.xml" value="0.13677536231884058" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/login_page.xml" value="0.16" />
         <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/login_petugas.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/login_siswa.xml" value="0.13677536231884058" />
       </map>
     </option>
   </component>
